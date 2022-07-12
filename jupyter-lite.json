@@ -412,7 +412,7 @@
     "litePluginSettings": {
       "@jupyterlite/pyolite-kernel-extension:kernel": {
         "pipliteUrls": [
-          "./pypi/all.json?sha256=8361356ac2bd74cb0779361b54d56e0b3a2bbce6d4157d1711c6b1278eb6ccd5"
+          "./pypi/all.json?sha256=cf39b10967103829a9efadcc2cee33781b4fd7277fb46a67e0a2427c5a220309"
         ]
       }
     },
