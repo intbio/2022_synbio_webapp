@@ -16,8 +16,8 @@
           "python_version": "py3",
           "requires_python": ">=3.6",
           "size": 1228940,
-          "upload_time": "2022-07-12T13:11:05.242121Z",
-          "upload_time_iso_8601": "2022-07-12T13:11:05.242121Z",
+          "upload_time": "2022-07-12T13:14:01.625700Z",
+          "upload_time_iso_8601": "2022-07-12T13:14:01.625700Z",
           "url": "./bqplot-0.12.33-py2.py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
@@ -42,35 +42,9 @@
           "python_version": "py3",
           "requires_python": null,
           "size": 123384,
-          "upload_time": "2022-07-12T13:11:05.242121Z",
-          "upload_time_iso_8601": "2022-07-12T13:11:05.242121Z",
+          "upload_time": "2022-07-12T13:14:01.625700Z",
+          "upload_time_iso_8601": "2022-07-12T13:14:01.625700Z",
           "url": "./ipywidgets-7.7.1-py2.py3-none-any.whl",
-          "yanked": false,
-          "yanked_reason": null
-        }
-      ]
-    }
-  },
-  "pkginfo": {
-    "releases": {
-      "1.8.3": [
-        {
-          "comment_text": "",
-          "digests": {
-            "md5": "12469a5ba29bbf6f1057ee2c5b03e438",
-            "sha256": "848865108ec99d4901b2f7e84058b6e7660aae8ae10164e015a6dcf5b242a594"
-          },
-          "downloads": -1,
-          "filename": "pkginfo-1.8.3-py2.py3-none-any.whl",
-          "has_sig": false,
-          "md5_digest": "12469a5ba29bbf6f1057ee2c5b03e438",
-          "packagetype": "bdist_wheel",
-          "python_version": "py3",
-          "requires_python": ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*",
-          "size": 26567,
-          "upload_time": "2022-07-12T13:11:05.242121Z",
-          "upload_time_iso_8601": "2022-07-12T13:11:05.242121Z",
-          "url": "./pkginfo-1.8.3-py2.py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
         }
