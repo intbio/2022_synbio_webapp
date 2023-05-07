@@ -16,8 +16,8 @@
           "python_version": "py3",
           "requires_python": ">=3.6",
           "size": 1228940,
-          "upload_time": "2023-05-02T15:10:26.996857Z",
-          "upload_time_iso_8601": "2023-05-02T15:10:26.996857Z",
+          "upload_time": "2023-05-07T20:22:46.576438Z",
+          "upload_time_iso_8601": "2023-05-07T20:22:46.576438Z",
           "url": "./bqplot-0.12.33-py2.py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
@@ -42,8 +42,8 @@
           "python_version": "py3",
           "requires_python": null,
           "size": 123384,
-          "upload_time": "2023-05-02T15:10:27.000857Z",
-          "upload_time_iso_8601": "2023-05-02T15:10:27.000857Z",
+          "upload_time": "2023-05-07T20:22:46.580438Z",
+          "upload_time_iso_8601": "2023-05-07T20:22:46.580438Z",
           "url": "./ipywidgets-7.7.1-py2.py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
