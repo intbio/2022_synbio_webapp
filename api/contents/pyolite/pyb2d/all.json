@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2023-05-21T23:46:33.314138Z",
+      "created": "2023-05-21T23:46:30.429935Z",
       "format": null,
-      "last_modified": "2023-05-21T23:45:04.793736Z",
+      "last_modified": "2023-05-21T23:45:20.616339Z",
       "mimetype": null,
       "name": "color_mixing.ipynb",
       "path": "pyolite/pyb2d/color_mixing.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2023-05-21T23:46:33.314138Z",
+      "created": "2023-05-21T23:46:30.429935Z",
       "format": null,
-      "last_modified": "2023-05-21T23:45:04.793736Z",
+      "last_modified": "2023-05-21T23:45:20.616339Z",
       "mimetype": null,
       "name": "0_tutorial.ipynb",
       "path": "pyolite/pyb2d/0_tutorial.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2023-05-21T23:46:33.318138Z",
+      "created": "2023-05-21T23:46:30.433935Z",
       "format": null,
-      "last_modified": "2023-05-21T23:45:04.793736Z",
+      "last_modified": "2023-05-21T23:45:20.616339Z",
       "mimetype": null,
       "name": "gauss_machine.ipynb",
       "path": "pyolite/pyb2d/gauss_machine.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2023-05-21T23:46:33.318138Z",
+      "created": "2023-05-21T23:46:30.429935Z",
       "format": null,
-      "last_modified": "2023-05-21T23:46:33.318138Z",
+      "last_modified": "2023-05-21T23:46:30.429935Z",
       "mimetype": null,
       "name": "games",
       "path": "pyolite/pyb2d/games",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2023-05-21T23:46:33.318138Z",
+      "created": "2023-05-21T23:46:30.433935Z",
       "format": null,
-      "last_modified": "2023-05-21T23:45:04.793736Z",
+      "last_modified": "2023-05-21T23:45:20.616339Z",
       "mimetype": null,
       "name": "newtons_cradle.ipynb",
       "path": "pyolite/pyb2d/newtons_cradle.ipynb",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2023-05-21T23:46:33.318138Z",
+  "created": "2023-05-21T23:46:30.433935Z",
   "format": "json",
-  "last_modified": "2023-05-21T23:46:33.318138Z",
+  "last_modified": "2023-05-21T23:46:30.433935Z",
   "mimetype": null,
   "name": "pyb2d",
   "path": "pyolite/pyb2d",
