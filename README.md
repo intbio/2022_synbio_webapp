@@ -13,4 +13,4 @@ Our dCas9 NOT-Gate model:
 
 Our dCas9 NOR-Gate model:
 
-➡️ **https://intbio.org/2022_synbio_webapp/lab?path=CRISPR_NOR_Gate.ipynb**
+➡️ **https://intbio.org/2022_synbio_webapp/lab?path=CRISPR_NOR_GATE.ipynb**
